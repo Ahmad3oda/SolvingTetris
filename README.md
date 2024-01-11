@@ -19,3 +19,11 @@ The objective is to arrange the pieces without any gaps, ensuring that all the c
 -----
 
 ## For more Details, Take a look at the Attached Documentation.
+-----
+### The Final Result
+
+- In case of valid query, the program visualize the steps for the solution :
+![123](https://github.com/Ahmad3oda/SolvingTetris-MultiThreading/assets/104653414/7ac21010-9302-4f5c-a6b6-052d9be918c6)
+![456](https://github.com/Ahmad3oda/SolvingTetris-MultiThreading/assets/104653414/9c57668a-64d9-4f4f-b5e4-7366d0416dba)
+- In case of invalid query :
+![789](https://github.com/Ahmad3oda/SolvingTetris-MultiThreading/assets/104653414/056a7b8a-3fe7-4514-a2ad-00b49f80964d)
