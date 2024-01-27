@@ -20,7 +20,7 @@ The objective is to arrange the pieces without any gaps, ensuring that all the c
 -----
 ## How to use?
 
-- The program shows various letter-shaped blocks (L, J, I, O, Z, S) that can be arranged. As a user, you pick the quantity of each shape, and the program provides a potential arrangement solution for the Tetris board. Each time you run the program with the same input, it usually gives a different valid solution.
+- The program shows various letter-shaped blocks (L, T, I, O, Z, S) that can be arranged. As a user, you pick the quantity of each shape, and the program provides a potential arrangement solution for the Tetris board. Each time you run the program with the same input, it usually gives a different valid solution.
 
 ## The Final Result
 
