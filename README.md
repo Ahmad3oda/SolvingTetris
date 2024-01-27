@@ -7,7 +7,6 @@ In this endeavor, we handle various pieces of different shapes, aiming to fit al
 
 The objective is to arrange the pieces without any gaps, ensuring that all the components find a suitable place within the grid.
 
----------
 # The Workflow Procedure
 
 - The core concept involves implementing a backtracking algorithm using threads. Each thread manages its own 4x4 grid and begins by strategically placing valid pieces. Subsequently, it invokes another thread, acting as a child, to complete the process.
@@ -16,10 +15,13 @@ The objective is to arrange the pieces without any gaps, ensuring that all the c
 
 - In summary, the entire tree formed by the backtracking algorithm operates concurrently, leading to a faster and more efficient way to achieve an optimal result.
 
------
 
 ## For more Details, Take a look at the Attached Documentation.
 -----
+## How to use?
+
+- The program shows various letter-shaped blocks (L, J, I, O, Z, S) that can be arranged. As a user, you pick the quantity of each shape, and the program provides a potential arrangement solution for the Tetris board. Each time you run the program with the same input, it usually gives a different valid solution.
+
 ## The Final Result
 
 - In case of valid query, the program visualize the steps for the solution :
